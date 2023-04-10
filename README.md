@@ -1,1 +1,26 @@
 # MERN Blogging Platform
+
++ Ibrahim Dayoub 11/2022
+
++ MERN Stack:
+	 - MongoDB
+	 - ExpressJs
+	 - ReactJs
+	 - NodeJs
+
++ Frontend Packages:
+	- react-router-dom
+	- react-quill
+	- date-fns
+
++ Backend Packages:
+ 	- express
+	- nodemon
+	- mongoose
+	- jsonwebtoken
+	- bcryptjs
+	- dotenv
+	- cors
+	- multer
+
++ MongoDB Atlas => https://cloud.mongodb.com
