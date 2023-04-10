@@ -1,2 +1,1 @@
-# personal_03
-MERN Blog Application
+# MERN Blogging Platform
