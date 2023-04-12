@@ -1,4 +1,4 @@
-# MERN Blogging Platform
+# Blogging Platform
 
 + Ibrahim Dayoub 11/2022
 
